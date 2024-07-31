@@ -1,42 +1,14 @@
-Happy Birthday
+Selamat Ulang Tahun, Ocillll!
 
-A Happy Birthday animation design in CSS3, HTML5.
+Hari ini adalah hari istimewa karena seseorang yang sangat luar biasa sedang merayakan ulang tahunnya. 🎉
 
-URL: http://ayusharma.github.io/birthday/
+saya ingin mengucapkan terima kasih atas semua kebahagiaan, tawa. ocill adalah musuh yang selalu ada, dalam suka maupun duka. ocill telah menunjukkan arti sebenarnya dari permusuhan 🤣🤣.
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+saya seneng kalau ocill juga seneng. Semoga di tahun yang baru ini, semua impian dan harapan ocill bisa terwujud. Ocill pantas mendapatkan semua kebahagiaan dan keberhasilan di dunia ini.
 
-# Setup
+Selamat ulang tahun sekali lagi, Ocillll! Tetaplah menjadi dirimu yang ceria, baik hati, dan penuh semangat. Semoga tahun ini membawa lebih banyak petualangan dan kebahagiaan untuk bocilll.
 
-## If you have python installed:
-```
-cd Birthday
-```
-
-&& 
-
-```
-python -m SimpleHTTPServer --port  8081
-```
-
-visit http://localhost:8081 in your browser.
-
-## If you have nodejs installed
-```
-npm install
-```
-&&
-
-```
-npm run server-node
-```
-visit http://localhost:8081 in your browser.
+Dengan banyak cinta dan doa.
 
 
-## For further queries do not hesitate to contact me.
-
-Ayush Sharma Arya College Of Engineering & IT, Jaipur India.
-
-contact details: ayush.aceit@gmail.com
-
-IRC: ayushpix
+URL: http://diahayusyafira.github.io/birthday/
